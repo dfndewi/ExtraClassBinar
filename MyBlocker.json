@@ -3,6 +3,14 @@
         "Nama": "Dewi",
         "Blocker": "ORM< Restful API, database, Express"
     },
+  {
+        "Nama": "Andri",
+        "Blocker": "Ga ada"
+    },
+    {
+        "Nama": "",
+        "Blocker": ""
+    },
     {
         "Nama": "",
         "Blocker": ""
@@ -12,7 +20,14 @@
         "Blocker": ""
     },
     {
-        "Nama": "",
-        "Blocker": ""
+        "Nama": "Yolanda Kono",
+        "Blocker": "Restfull API",
+        "1" : "ORM", 
+        "2" : "Implemetation In Express",
+        "3" : "Design Pattern",
+        "4" : "Template Engine",
+        "5" : "Asynchronous",
+        "6" : "Authentication"
+
     }
 ]
